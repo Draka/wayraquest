@@ -45,7 +45,7 @@ See the LICENSE file for details.
 
 Credits
 -------
-Fork by [Draka] @SrDraka
+Fork by [@SrDraka](http://twitter.com/srdraka)
 
 Created by [Little Workshop](http://www.littleworkshop.fr):
 
