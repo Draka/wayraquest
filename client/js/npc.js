@@ -118,8 +118,8 @@ define(['character'], function(Character) {
         
         "octocat": [
             "Hola Amiguito",
-            "este proyecto se encuentra disponible en GiHub",
-            'Check out <a target="_blank" href="http://github.com/mozilla/BrowserQuest">the repository on GitHub</a>',
+            "este proyecto se encuentra disponible en GitHub",
+            'entra a <a target="_blank" href="https://github.com/Draka/wayraquest">https://github.com/Draka/wayraquest</a>',
             "Pasa y echale una ojeada al código"
         ],
         

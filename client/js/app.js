@@ -316,7 +316,7 @@ define(['jquery', 'storage'], function($, Storage) {
                 if(!achievement.hidden) {
                     self.setAchievementData($a, achievement.name, achievement.desc);
                 }
-                $a.find('.twitter').attr('href', 'http://twitter.com/share?url=http%3A%2F%2Fec2-75-101-168-206.compute-1.amazonaws.com%2Fquest%2Fclient%2F&text=I%20Desbloqueo%20el%20logro%20%27'+ achievement.name +'%27%20en%20WayraQuest%20%23developedDay!%26related%3Dglecollinet%3AReto%20Wayra');
+                $a.find('.twitter').attr('href', 'http://twitter.com/share?url=http%3A%2F%2Fec2-75-101-168-206.compute-1.amazonaws.com%2Fquest%2Fclient%2F&text=Tengo%20un%20logro%20%27'+ achievement.name +'%27%20en%20WayraQuest%20%23developedDay%20Reto%20Wayra');
                 $a.show();
                 $a.find('a').click(function() {
                      var url = $(this).attr('href');
